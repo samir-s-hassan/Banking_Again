@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: com.bank.BankAccountMockitoTest
+Test set: com.bank.BankMainTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.471 s -- in com.bank.BankAccountMockitoTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.008 s -- in com.bank.BankMainTest
